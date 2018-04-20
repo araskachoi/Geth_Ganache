@@ -1,0 +1,30 @@
+=============== Apr 20, 2018 (PDT) ===============
+14:15:30.762001 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:15:30.762836 db@open opening
+14:15:30.763366 version@stat F·[] S·0B[] Sc·[]
+14:15:30.763727 db@janitor F·2 G·0
+14:15:30.763784 db@open done T·909.78µs
+=============== Apr 20, 2018 (PDT) ===============
+14:15:30.828552 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:15:30.828759 version@stat F·[] S·0B[] Sc·[]
+14:15:30.828781 db@open opening
+14:15:30.828840 journal@recovery F·1
+14:15:30.832562 journal@recovery recovering @1
+14:15:30.833487 memdb@flush created L0@2 N·32 S·1KiB "\x19\x1f\xc2..\xefm\xe9,v13":"\xdeP\xbf..\xf3\x94,,v12"
+14:15:30.837187 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+14:15:30.838318 db@janitor F·3 G·0
+14:15:30.838352 db@open done T·9.550785ms
+14:16:02.636497 db@close closing
+14:16:02.636639 db@close done T·138.534µs
+=============== Apr 20, 2018 (PDT) ===============
+14:16:06.916488 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:16:06.917371 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+14:16:06.917409 db@open opening
+14:16:06.917487 journal@recovery F·1
+14:16:06.920839 journal@recovery recovering @3
+14:16:06.921762 memdb@flush created L0@5 N·3 S·290B "Blo..ion,v35":"dbU..ata,v34"
+14:16:06.925295 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+14:16:06.926560 db@janitor F·4 G·0
+14:16:06.926599 db@open done T·9.173876ms
+14:16:20.071492 db@close closing
+14:16:20.071942 db@close done T·438.326µs
