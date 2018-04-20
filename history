@@ -1,0 +1,78 @@
+personal.listAccounts
+personal.listWallets
+web3.fromWei(eth.getBalance(eth.coinbase), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+miner.start()
+miner.stop()
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+miner.start()
+miner.stop()
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+sopt
+stop
+stop()
+miner.stop
+miner.stop()
+net.peerCount
+personal.listAccounts
+personal.listWallets
+personal.listAccounts
+personal.listWallets
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+miners.start()
+miner.start()
+miner.stop()
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+personal.listWallets
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+0x9d365d8674a383736f1a1d7a43c4b63c213b3394
+web3.fromWei(eth.getBalance("0x54fc0e31e83859db240b97b54918de6f8b414596"), "ether")
+web3.fromWei(eth.getBalance("0x9d365d8674a383736f1a1d7a43c4b63c213b3394"), "ether")
+web3.fromWei(eth.getBalance("0x4b40809b60e1b6e501d9abf4bb8043f10766119a"), "ether")
+personal.listWallets
+personal.litWallets
+personal.listWallets
+clear
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x54fc0e31e83859db240b97b54918de6f8b414596"), "ether")
+web3.fromWei(eth.getBalance("0xa7b95b4bde4d10c445176d18f1bcd40f18b289e5"), "ether")
+web3.fromWei(eth.getBalance("0x4b40809b60e1b6e501d9abf4bb8043f10766119a"), "ether")
+web3.fromWei(eth.getBalance("0x5807cce65cb1b3ef8783cd0256687b014d1f46e8"), "ether")
+web3.fromWei(eth.getBalance("0xa333caee867ee2db24a8e3279d7c6f5fea5e9469"), "ether")
+web3.fromWei(eth.getBalance("0xae0b887297cc0d4805c4ba006552b29d2167b8c6"), "ether")
+web3.fromWei(eth.getBalance("0x9fb3b9cc6aa3c3048cee06570e597c84c1524f78"), "ether")
+web3.fromWei(eth.getBalance("0x9d365d8674a383736f1a1d7a43c4b63c213b3394"), "ether")
+web3.fromWei(eth.getBalance("0x54fc0e31e83859db240b97b54918de6f8b414596"), "ether")
+web3.fromWei(eth.getBalance("0xcdd3516d2013251e098caf1200e0823c673513cc"), "ether")
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+miner.start()
+miner.stop()
+miner.start()
+miner.stop()
+miner.start()
+miner.stop()
+eixt
+miner.start()
+miner.stop()
+miner.start()
+miner.stop()
+net.peerCount
+web3.fromWei(eth.getBalance("0x9d840872DDef20df865FAdD87E71a04DffDC7c0C"), "ether")
+web3.fromWei(eth.getBalance("0xa7b95b4bde4d10c445176d18f1bcd40f18b289e5"), "ether")
+web3.fromWei(eth.getBalance("0xae0b887297cc0d4805c4ba006552b29d2167b8c6"), "ether")
+web3.fromWei(eth.getBalance("0x9d365d8674a383736f1a1d7a43c4b63c213b3394"), "ether")
+clear
+net.peerlist
+net.peerCount
+personal.listPeers
+admin.peers
+net.peerCount
