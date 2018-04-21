@@ -1,7 +1,9 @@
 # Geth_Ganache
-
-**You must first have Geth. If you do not yet, you can download it [here](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum).**
 This is a basic set up of Geth to create 10 accounts preloaded with 100 ETH to use for whatever your wish desires (withib your private network of course)
+
+# Dependencies
+Geth Version: 1.8.3-unstable
+**You must first have Geth. If you do not yet, you can download it [here](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum).**
 
 ## Getting Started
 - you must clone this repo
